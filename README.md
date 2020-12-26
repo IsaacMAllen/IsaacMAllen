@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 - 🔭 I’m currently working on a Bachelor's degree in Computer Science at Appalachian State!
 - 🌱 I’m currently learning OOP stuff!

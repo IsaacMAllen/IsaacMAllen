@@ -1,5 +1,5 @@
 ### Hello World 👋
-
+markdown: kramdown
 - 🔭 I’m currently working on a Bachelor's degree in Computer Science at Appalachian State!
 - 🌱 I’m currently learning OOP stuff!
 - :globe_with_meridians: Visit [go](https://isaacallen.dev){:target="_blank" rel="noopener"}!

@@ -1,8 +1,8 @@
 ### Hello World 👋
-markdown: kramdown
+
 - 🔭 I’m currently working on a Bachelor's degree in Computer Science at Appalachian State!
 - 🌱 I’m currently learning OOP stuff!
-- :globe_with_meridians: Visit [go](https://isaacallen.dev){:target="_blank" rel="noopener"}!
+- :globe_with_meridians: Visit [My website](https://isaacallen.dev)!
 - 📫 How to reach me: allenim@appstate.edu
 - ⚡ Fun fact: I have the same birthday as Bob Moog 🎚🎛🎹🎛🎚 (Aside from the year! 😄)
 

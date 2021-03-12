@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🔭 I’m currently working on a Bachelor's degree in Computer Science at Appalachian State!
-- 🌱 I’m currently learning About Data Structures!
+- 🌱 I’m currently learning about data structures!
 - :globe_with_meridians: Visit [My website](https://isaacallen.dev)!
 - 📫 How to reach me: allenim@appstate.edu
 - ⚡ Fun fact: I have the same birthday as Bob Moog 🎚🎛🎹🎛🎚 (Aside from the year! 😄)

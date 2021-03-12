@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🔭 I’m a Computer Science undergraduate at Appalachian State Univeristy.
+- :mortar_board: Working on a Computer Science degree at Appalachian State Univeristy!
 - 🌱 Currently learning about data structures :D
 - :globe_with_meridians: -> Check out [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev

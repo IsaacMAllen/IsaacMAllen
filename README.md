@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🔭 I’m currently working on a Bachelor's degree in Computer Science at Appalachian State!
-- 🌱 Currently learning about data structures.
+- 🌱 Currently learning about data structures :D
 - :globe_with_meridians: Check out [my website](https://isaacallen.dev)
 - 📫 How to reach me: isaac@isaacallen.dev
 

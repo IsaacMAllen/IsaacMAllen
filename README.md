@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - :mortar_board: Working on a Computer Science degree at Appalachian State Univeristy!
-- 🌱 Currently learning about data structures :D
+- 🌱 Currently learning about recursive backtracking implementations :D
 - :globe_with_meridians: -> Check out [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev
 

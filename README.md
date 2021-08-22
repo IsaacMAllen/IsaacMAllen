@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - :mortar_board: Working on a Computer Science degree at Appalachian State Univeristy!
-- 🌱 Currently tutoring young Padawans in the ways of entry-level CS forces :shipit:
+- 🌱 Currently tutoring young Padawans in the ways of entry-level CS forces :milky_way:
 - :globe_with_meridians: :arrow_right: Check out [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev
 

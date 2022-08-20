@@ -2,7 +2,7 @@
 
 - :mortar_board: Working on a Computer Science degree at Appalachian State Univeristy!
 - 🌱 Currently tutoring CS courses at the college
-- :globe_with_meridians: Vist [my unfinished website](https://isaacallen.dev) 
+- :globe_with_meridians: Vist [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev
 
 <details>

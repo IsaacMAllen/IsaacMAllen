@@ -1,7 +1,6 @@
 ### Hello World 👋
 
-- :mortar_board: Working on a Computer Science degree at Appalachian State Univeristy!
-- 🌱 Currently tutoring CS courses at the college
+- :mortar_board: I'm an incoming software developer at Cisco Systems and am graduating with my Bachelors in CS from Appalachian State on the 16th!
 - :globe_with_meridians: Vist [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev
 

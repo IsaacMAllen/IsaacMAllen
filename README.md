@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- :mortar_board: I'm an incoming software developer at Cisco Systems and am graduating with my Bachelors in CS from Appalachian State on the 16th!
+I'm an incoming software developer at Cisco Systems and am graduating with my Bachelors in CS from Appalachian State on the 16th!
 - :globe_with_meridians: Vist [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev
 

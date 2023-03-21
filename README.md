@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a software engineer at Cisco and a recent CS graduate from Appalachian State.
+I'm a software engineer at Cisco Systems and a recent CS graduate from Appalachian State.
 I like making projects and learning something new every day.
 - :globe_with_meridians: Vist [my website](https://isaacallen.dev) 
 - 📫 How to reach me: isaac@isaacallen.dev
